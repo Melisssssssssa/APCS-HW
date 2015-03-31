@@ -1,0 +1,26 @@
+public class myQueue<E>{
+    Node<E> first;
+    Node<E> last;
+
+    public myQueue<E>{
+	Node 
+    public void enqueue (E Data){
+	
+
+
+    }
+
+    public E duqueue (){
+
+
+    }
+
+    public boolean empty(){
+
+    }
+
+    public E head(){
+       
+    }
+
+    

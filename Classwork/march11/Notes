@@ -1,0 +1,3 @@
+Linked List 
+-A collection of nodes where a node contains data and a way(link) to the next node. 
+-The link must refer to a start node. 
