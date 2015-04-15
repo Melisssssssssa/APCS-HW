@@ -1,0 +1,11 @@
+bgFeb 11
+
+PathFinding
+Search
+BLind Search
+Depth first Search: goes as far as it can and then go back
+
+State Space Search
+State: our world 
+space : somethign that contrains stuff (node)
+
