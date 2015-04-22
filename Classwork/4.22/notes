@@ -1,0 +1,20 @@
+Graph - collection of nodes and edges
+
+nodes( Vertex): hold stuff
+edge: connects nodes
+
+Cyclic graph - with a cycle like circle 
+acyclic graph - not connecting all the points must retrace to get back to the node from the start
+
+
+weights -associated value to the edge
+
+trees empty or an acyclic graph with one mode designated as the root
+
+root : starting point
+
+child: connected to end level down from its parent node
+
+leaf : a node with 0 children 
+
+
