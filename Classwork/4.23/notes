@@ -1,0 +1,11 @@
+Binary Tree
+each node has 0,1,2 children
+
+Binary Search Tree
+given the value V in N; left subtrees are less than v and all of te values in n's right subtree are greater than V
+
+
+
+always insert as a leaf --> easiest method 
+
+
